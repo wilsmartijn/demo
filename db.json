@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "PRODUCT_TITLE": "Product 1", "IMAGE":"https://www.selligent.com/sites/default/files/logo-smc_0.png", "STOCK_AMOUNT":"2",
+    { "id": 1, "PRODUCT_TITLE": "Product 1", "IMAGE":"https://www.selligent.com/sites/default/files/images/logo-s.png", "STOCK_AMOUNT":"2",
      "ORIGINAL_PRICE": "50 EUR", "DISCOUNT_PRICE": "45 EUR" },
     { "id": 2, "title": "Post 2 Martijn" },
     { "id": 3, "title": "Post 3" }
